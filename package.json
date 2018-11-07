@@ -1,0 +1,21 @@
+{
+  "name": "withyou",
+  "version": "1.0.0",
+  "description": "withyou",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "compile": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demos-platform/withyou.git"
+  },
+  "author": "muyunyun",
+  "license": "MIT",
+  "dependencies": {
+    "inversify": "^5.0.1",
+    "reflect-metadata": "^0.1.12",
+    "typescript": "^3.1.6"
+  }
+}
